@@ -1,0 +1,4 @@
+SWUpdatePackageHandler.c:33:6:SWUpdatePackageHandler_Init	0	static
+SWUpdatePackageHandler.c:56:6:erase_flash_sector	40	static
+SWUpdatePackageHandler.c:87:6:program_flash_data	24	static
+SWUpdatePackageHandler.c:154:6:SWUpdatePackageHandler_ReceiveFrame	32	static,ignoring_inline_asm

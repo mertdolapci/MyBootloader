@@ -1,0 +1,12 @@
+main.c:81:5:_write	12	static,ignoring_inline_asm
+main.c:100:6:Flash_Erase_AppArea	32	static
+main.c:116:6:Flash_Write	40	static
+main.c:146:6:delay_us	16	static
+main.c:169:6:DHT22_SetPinOutput	32	static
+main.c:177:6:DHT22_SetPinInput	32	static
+main.c:185:9:DHT22_ReadData	40	static
+main.c:236:7:DHT22_GetTemperature	8	static
+main.c:246:7:DHT22_GetHumidity	8	static
+main.c:502:6:Error_Handler	8	static,ignoring_inline_asm
+main.c:326:6:SystemClock_Config	88	static
+main.c:260:5:main	80	static

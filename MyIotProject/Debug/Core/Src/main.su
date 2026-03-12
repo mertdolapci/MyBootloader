@@ -1,0 +1,17 @@
+core_cm4.h:2064:26:ITM_SendChar	16	static,ignoring_inline_asm
+main.c:81:5:_write	32	static
+main.c:100:6:Flash_Erase_AppArea	32	static
+main.c:116:6:Flash_Write	32	static
+main.c:146:6:delay_us	16	static
+main.c:169:6:DHT22_SetPinOutput	32	static
+main.c:177:6:DHT22_SetPinInput	32	static
+main.c:185:9:DHT22_ReadData	24	static
+main.c:236:7:DHT22_GetTemperature	16	static
+main.c:246:7:DHT22_GetHumidity	16	static
+main.c:260:5:main	40	static
+main.c:326:6:SystemClock_Config	88	static
+main.c:366:13:MX_TIM2_Init	32	static
+main.c:411:13:MX_USART1_UART_Init	8	static
+main.c:444:13:MX_USART2_UART_Init	8	static
+main.c:477:13:MX_GPIO_Init	40	static
+main.c:502:6:Error_Handler	16	static,ignoring_inline_asm
